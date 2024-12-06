@@ -48,7 +48,7 @@ To get started, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/ushasree-3/ATM-Communication-Protocol.git
-cd ATM-Communication-Protocol
+cd ATM-Communication-Protocol/build
    ```
 
 ### Step 1: Compile the Project
